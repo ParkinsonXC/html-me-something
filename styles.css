@@ -1,0 +1,65 @@
+body {
+    background-color:lightblue;
+    background-image: url("http://icons.iconarchive.com/icons/prepaidgamecards/gaming-gadgets/256/PlayStation-4-icon.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+}
+
+p.head {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 75px;
+    text-align: center;
+    position: center;
+    background-clip: 20px;
+    padding: 25px;
+}
+
+p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+ul {
+    margin: 15px;
+    padding-left: 0px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+
+li {
+    font-size: 25px;
+    font-family: 'Lekton', sans-serif;
+    color: darkblue;
+    display: inline-block;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Lekton', sans-serif;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: 'Lekton', sans-serif;
+}
+
+section {
+    padding-top: 25px;
+}
+
+a{
+    color: darkslategray;
+}
+
+a:hover {
+    color: lightcoral;
+    background-color :darkcyan ;
+}
+
+a:visited {
+    color: darkred
+}
